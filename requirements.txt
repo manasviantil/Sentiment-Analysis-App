@@ -1,0 +1,8 @@
+sentiment_analysis
+│
+├── .venv
+├── ui.py
+├── model.pkl
+├── vectorizer.pkl
+├── requirements.txt
+└── README.md
